@@ -87,13 +87,12 @@ ul.posts {
 }
 
 .title {
-  color: #aaa;
-  font-weight: bold;
+  color: #000;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #aaa;
+    color: #000;
     text-decoration: none;
   }
 
@@ -102,13 +101,13 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #000;
     text-decoration: none;
     margin-left: 1em;
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: #000;
   }
 
   .site .meta {
